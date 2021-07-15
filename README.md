@@ -1,3 +1,4 @@
+![Screenshot_1](https://user-images.githubusercontent.com/55910759/125815518-94ad4b0d-119a-4d5e-890b-4d6d1a0c2cde.png)
 # CompareSortingAlgorithms
 It aims to make a comparative analysis among the sorting algorithms requested which are  Bubble sort, quick sort, insertion sort and selection sort,  from us. For this, data obtained by executing each of these methods in different scenarios will be used through a program written in the C language. Each algorithm will be executed one time. Each algorithm will have its execution time. At the end of the work, we hope to have a clear understanding of what are the best algorithms for each type of situation.
 
